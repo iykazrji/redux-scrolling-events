@@ -1,9 +1,7 @@
-# test-tube
+# Redux-Scroll-Events
 
-React + Redux boilerplate with hot reloading and babel support.
 
-This boilerplate contains a React + Redux setup with Hot Reloading onboard and 
-a little demo app showing React and Redux in action.
+Example project Using Redux to statefully and non-imperatively make event driven apps
 
 # Getting Started.
 
