@@ -1,0 +1,4 @@
+{
+	"comment": "Environment Configuration for a Develpment instance",
+	"server_url": "http://localhost:8080"
+}
